@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 My master branch should be marge with feature branch and marge it: 
-=======
-Hello world 
->>>>>>> Stashed changes
+
